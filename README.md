@@ -1,3 +1,16 @@
+Name:Prithvi Ratkalkar
+
+PRN:25070123165
+
+Batch: ENTC-A1
+
+
+
+
+
+
+
+
 # Installation-of-Python
 Experiment–1
 Title
