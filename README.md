@@ -1,20 +1,14 @@
+# Installation-of-Python
+Experiment–1
+Title
+Introduction to Python Programming and Installation of Jupyter Notebook Using Anaconda
+
+
 Name:Prithvi Ratkalkar
 
 PRN:25070123165
 
 Batch: ENTC-A1
-
-
-
-
-
-
-
-
-# Installation-of-Python
-Experiment–1
-Title
-Introduction to Python Programming and Installation of Jupyter Notebook Using Anaconda
 ________________________________________
 Aim
 To study the basics of Python programming language, understand the Python execution environment, install Python and Jupyter Notebook using Anaconda distribution, and explore various Python IDEs including Google Colab.
